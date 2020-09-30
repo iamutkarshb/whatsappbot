@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
-driver = webdriver.Chrome()
+driver = webdriver.Chrome(executable_path = 'chromedriver.exe')
 driver.get('https://web.whatsapp.com/')
 
 name = input('Enter the name of user or group : ')
