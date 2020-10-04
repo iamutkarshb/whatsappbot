@@ -17,7 +17,7 @@ To make your way easier my Whatsapp bot will help u to send ur event pictures to
 ### Pre Requirements
 
   * Selenium:
-    cmd command: pip install selenium
+    cmd command: pip install selenium.
     
   * chromedriver:
-    Given in the files itself or you can download it online
+    Given in the files itself or you can download it online.
